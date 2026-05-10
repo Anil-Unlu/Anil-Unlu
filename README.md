@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Software Engineer with experience in Java-based enterprise systems. Focused on backend architecture, cloud technologies, and machine learning.
+- 🌱 Software Engineer with experience in Java-based enterprise systems. Focused on backend architecture, cloud technologies, machine learning and artificial intelligence.
 
 
 Technologies:
