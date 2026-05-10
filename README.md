@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I'm Java developer . Transitioning towards modern backend development with Spring ecosystem, Docker and Kubernetes.
+- 🌱 Software Engineer with Java experience in enterprise systems. Interested in backend architecture and machine learning.
 
 
 Technologies:
