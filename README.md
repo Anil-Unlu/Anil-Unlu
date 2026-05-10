@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning java spring and react
+- 🌱 I'm Java developer . Transitioning towards modern backend development with Spring ecosystem, Docker and Kubernetes.
 
 
 Technologies:
